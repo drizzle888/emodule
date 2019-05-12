@@ -1,0 +1,3277 @@
+
+gongfu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/anim/wolf_hurt
+  rotate: true
+  xy: 276, 3
+  size: 159, 81
+  orig: 159, 81
+  offset: 0, 0
+  index: -1
+images/anqi/anqi_attack6_1
+  rotate: false
+  xy: 676, 565
+  size: 126, 85
+  orig: 126, 85
+  offset: 0, 0
+  index: -1
+images/baoqi/khbd-attack04
+  rotate: true
+  xy: 915, 2
+  size: 88, 106
+  orig: 88, 106
+  offset: 0, 0
+  index: -1
+images/baoqi/khbd-blade02
+  rotate: true
+  xy: 819, 385
+  size: 178, 95
+  orig: 178, 95
+  offset: 0, 0
+  index: -1
+images/baoqi/khbd-blade12
+  rotate: true
+  xy: 83, 164
+  size: 399, 391
+  orig: 399, 391
+  offset: 0, 0
+  index: -1
+images/baoqi/taj404
+  rotate: false
+  xy: 204, 565
+  size: 119, 105
+  orig: 119, 105
+  offset: 0, 0
+  index: -1
+images/baoqi/taj601
+  rotate: false
+  xy: 747, 48
+  size: 70, 115
+  orig: 70, 115
+  offset: 0, 0
+  index: -1
+images/baoqi/tajiblade-05
+  rotate: false
+  xy: 2, 136
+  size: 79, 427
+  orig: 79, 427
+  offset: 0, 0
+  index: -1
+images/blade/claw_blade_1
+  rotate: true
+  xy: 511, 2
+  size: 161, 107
+  orig: 161, 107
+  offset: 0, 0
+  index: -1
+images/blade/liumai1
+  rotate: true
+  xy: 1017, 657
+  size: 90, 5
+  orig: 90, 5
+  offset: 0, 0
+  index: -1
+images/blade/liumai2
+  rotate: true
+  xy: 1017, 565
+  size: 90, 5
+  orig: 90, 5
+  offset: 0, 0
+  index: -1
+images/circle4
+  rotate: true
+  xy: 916, 657
+  size: 13, 75
+  orig: 13, 75
+  offset: 0, 0
+  index: -1
+images/common/baoqi2
+  rotate: true
+  xy: 1002, 920
+  size: 59, 16
+  orig: 59, 16
+  offset: 0, 0
+  index: -1
+images/common/dead1-3
+  rotate: false
+  xy: 620, 115
+  size: 113, 48
+  orig: 114, 48
+  offset: 0, 0
+  index: -1
+images/dragonhead
+  rotate: true
+  xy: 476, 165
+  size: 398, 341
+  orig: 398, 341
+  offset: 0, 0
+  index: -1
+images/effect/drag1_1
+  rotate: false
+  xy: 1002, 652
+  size: 13, 95
+  orig: 13, 95
+  offset: 0, 0
+  index: -1
+images/effect/drag1_4
+  rotate: true
+  xy: 916, 92
+  size: 131, 106
+  orig: 131, 106
+  offset: 0, 0
+  index: -1
+images/effect/drag1_5
+  rotate: true
+  xy: 819, 245
+  size: 138, 95
+  orig: 138, 95
+  offset: 0, 0
+  index: -1
+images/effect/fire21
+  rotate: false
+  xy: 2, 565
+  size: 200, 105
+  orig: 200, 105
+  offset: 0, 0
+  index: -1
+images/effect/fire23
+  rotate: true
+  xy: 916, 364
+  size: 151, 106
+  orig: 151, 106
+  offset: 0, 0
+  index: -1
+images/finger/finger_atk01_0
+  rotate: false
+  xy: 819, 2
+  size: 94, 111
+  orig: 94, 111
+  offset: 0, 0
+  index: -1
+images/finger/finger_atk01_1
+  rotate: true
+  xy: 916, 225
+  size: 137, 106
+  orig: 137, 106
+  offset: 0, 0
+  index: -1
+images/fingerpa
+  rotate: true
+  xy: 1002, 1001
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack2_1
+  rotate: true
+  xy: 735, 151
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack4_0
+  rotate: true
+  xy: 1002, 749
+  size: 103, 14
+  orig: 103, 14
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack4_1_f
+  rotate: false
+  xy: 725, 659
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack7_1
+  rotate: false
+  xy: 210, 2
+  size: 64, 160
+  orig: 65, 161
+  offset: 1, 1
+  index: -1
+images/gun/gun_attack9_1
+  rotate: true
+  xy: 1002, 878
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+images/hand/claw_atk05_1
+  rotate: true
+  xy: 418, 4
+  size: 158, 91
+  orig: 158, 91
+  offset: 0, 0
+  index: -1
+images/hand/claw_atk07_0
+  rotate: true
+  xy: 804, 565
+  size: 105, 110
+  orig: 105, 112
+  offset: 0, 2
+  index: -1
+images/hand/fist_atk05_0
+  rotate: true
+  xy: 446, 565
+  size: 105, 113
+  orig: 105, 113
+  offset: 0, 0
+  index: -1
+images/hand/fist_atk06_1
+  rotate: false
+  xy: 325, 565
+  size: 119, 105
+  orig: 119, 105
+  offset: 0, 0
+  index: -1
+images/hand/fist_atk08_1
+  rotate: true
+  xy: 916, 517
+  size: 133, 99
+  orig: 133, 99
+  offset: 0, 0
+  index: -1
+images/hand/fist_atk09_1
+  rotate: true
+  xy: 2, 2
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1
+images/hand/fist_stand1
+  rotate: false
+  xy: 819, 115
+  size: 95, 128
+  orig: 95, 128
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk03_0
+  rotate: false
+  xy: 620, 2
+  size: 125, 111
+  orig: 125, 113
+  offset: 0, 2
+  index: -1
+images/hand/hand_atk04_0
+  rotate: false
+  xy: 119, 2
+  size: 88, 132
+  orig: 88, 133
+  offset: 0, 1
+  index: -1
+images/hand/hand_atk04_1
+  rotate: false
+  xy: 561, 565
+  size: 113, 105
+  orig: 113, 107
+  offset: 0, 2
+  index: -1
+images/hurteff
+  rotate: false
+  xy: 2, 672
+  size: 998, 350
+  orig: 1000, 350
+  offset: 1, 0
+  index: -1
+images/knife/knife_attack2_1
+  rotate: false
+  xy: 359, 3
+  size: 57, 159
+  orig: 57, 159
+  offset: 0, 0
+  index: -1
+images/sword/sword
+  rotate: false
+  xy: 83, 136
+  size: 125, 26
+  orig: 126, 28
+  offset: 0, 1
+  index: -1
+images/sword/sword_atk05_1_f
+  rotate: false
+  xy: 1002, 981
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk08_0
+  rotate: true
+  xy: 1002, 854
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk20_1_f
+  rotate: true
+  xy: 1002, 904
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+images/weapon/anqi1
+  rotate: false
+  xy: 676, 657
+  size: 47, 13
+  orig: 47, 13
+  offset: 0, 0
+  index: -1
+images/weapon/bian1
+  rotate: false
+  xy: 747, 10
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+
+gongfu2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/anim/bird_atk1
+  rotate: false
+  xy: 715, 729
+  size: 190, 102
+  orig: 190, 102
+  offset: 0, 0
+  index: -1
+images/anim/bird_atk2
+  rotate: true
+  xy: 205, 45
+  size: 218, 123
+  orig: 218, 123
+  offset: 0, 0
+  index: -1
+images/anim/wolf_atk1
+  rotate: false
+  xy: 593, 324
+  size: 177, 143
+  orig: 177, 144
+  offset: 0, 0
+  index: -1
+images/anqi/anqi_attack7_1
+  rotate: false
+  xy: 907, 646
+  size: 115, 125
+  orig: 116, 126
+  offset: 1, 1
+  index: -1
+images/anqi/anqi_attack8_0
+  rotate: true
+  xy: 910, 773
+  size: 121, 112
+  orig: 121, 114
+  offset: 0, 2
+  index: -1
+images/baoqi/khbd-attack03
+  rotate: true
+  xy: 881, 2
+  size: 121, 82
+  orig: 126, 82
+  offset: 0, 0
+  index: -1
+images/baoqi/khbd-attack10
+  rotate: false
+  xy: 2, 2
+  size: 186, 58
+  orig: 186, 58
+  offset: 0, 0
+  index: -1
+images/baoqi/khbd-attack13
+  rotate: true
+  xy: 654, 2
+  size: 58, 113
+  orig: 66, 120
+  offset: 2, 6
+  index: -1
+images/baoqi/taj803
+  rotate: true
+  xy: 910, 896
+  size: 126, 112
+  orig: 126, 112
+  offset: 0, 0
+  index: -1
+images/baoqi/tajiblade-06
+  rotate: false
+  xy: 2, 265
+  size: 220, 382
+  orig: 220, 382
+  offset: 0, 0
+  index: -1
+images/bian/bian_attack1_0
+  rotate: true
+  xy: 860, 203
+  size: 119, 97
+  orig: 119, 97
+  offset: 0, 0
+  index: -1
+images/bian/bian_attack3_0
+  rotate: false
+  xy: 959, 229
+  size: 63, 119
+  orig: 63, 119
+  offset: 0, 0
+  index: -1
+images/blade/gun_blade1
+  rotate: true
+  xy: 597, 734
+  size: 230, 116
+  orig: 230, 116
+  offset: 0, 0
+  index: -1
+images/blade/knife_blade1
+  rotate: false
+  xy: 736, 520
+  size: 163, 207
+  orig: 163, 207
+  offset: 0, 0
+  index: -1
+images/blade/knife_blade2
+  rotate: true
+  xy: 654, 62
+  size: 83, 204
+  orig: 83, 204
+  offset: 0, 0
+  index: -1
+images/blade/sword_blade_1
+  rotate: false
+  xy: 772, 324
+  size: 185, 194
+  orig: 185, 194
+  offset: 0, 0
+  index: -1
+images/blade/sword_blade_2
+  rotate: false
+  xy: 477, 148
+  size: 179, 174
+  orig: 179, 174
+  offset: 0, 0
+  index: -1
+images/circle2
+  rotate: false
+  xy: 2, 62
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+images/common/baoqi3-1
+  rotate: true
+  xy: 769, 2
+  size: 58, 110
+  orig: 59, 110
+  offset: 1, 0
+  index: -1
+images/common/dead1-6
+  rotate: false
+  xy: 597, 697
+  size: 116, 35
+  orig: 117, 35
+  offset: 0, 0
+  index: -1
+images/common/dead3-5
+  rotate: true
+  xy: 405, 291
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+images/dragonline
+  rotate: false
+  xy: 2, 966
+  size: 697, 56
+  orig: 697, 56
+  offset: 0, 0
+  index: -1
+images/effect/fire11
+  rotate: true
+  xy: 959, 203
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+images/effect/fire12
+  rotate: true
+  xy: 901, 520
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+images/effect/fire13
+  rotate: false
+  xy: 327, 669
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+images/effect/fire22
+  rotate: false
+  xy: 658, 220
+  size: 200, 102
+  orig: 200, 102
+  offset: 0, 0
+  index: -1
+images/effect/hand1
+  rotate: false
+  xy: 715, 833
+  size: 193, 189
+  orig: 193, 189
+  offset: 0, 0
+  index: -1
+images/effect/hand2
+  rotate: false
+  xy: 330, 84
+  size: 145, 205
+  orig: 145, 205
+  offset: 0, 0
+  index: -1
+images/effect/light3
+  rotate: true
+  xy: 568, 331
+  size: 364, 23
+  orig: 364, 23
+  offset: 0, 0
+  index: -1
+images/effect/taiji
+  rotate: false
+  xy: 327, 697
+  size: 268, 267
+  orig: 268, 267
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack12_1
+  rotate: false
+  xy: 224, 265
+  size: 102, 24
+  orig: 102, 24
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack7_0
+  rotate: false
+  xy: 488, 329
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1
+images/hand/claw_atk06_1
+  rotate: true
+  xy: 491, 2
+  size: 144, 78
+  orig: 144, 78
+  offset: 0, 0
+  index: -1
+images/hand/claw_atk09_1
+  rotate: false
+  xy: 571, 6
+  size: 81, 140
+  orig: 81, 140
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk03_1
+  rotate: true
+  xy: 341, 2
+  size: 80, 148
+  orig: 80, 148
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk07_1
+  rotate: false
+  xy: 190, 2
+  size: 149, 41
+  orig: 149, 41
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk09_0
+  rotate: true
+  xy: 965, 23
+  size: 100, 57
+  orig: 101, 57
+  offset: 0, 0
+  index: -1
+images/light2
+  rotate: false
+  xy: 2, 649
+  size: 323, 315
+  orig: 324, 315
+  offset: 1, 0
+  index: -1
+images/sword/sword_atk03_1
+  rotate: false
+  xy: 901, 546
+  size: 121, 98
+  orig: 121, 98
+  offset: 0, 0
+  index: -1
+images/weapon/bian1_attack1_1
+  rotate: true
+  xy: 959, 350
+  size: 194, 63
+  orig: 194, 63
+  offset: 0, 0
+  index: -1
+images/weapon/bian1_attack2_1
+  rotate: true
+  xy: 488, 390
+  size: 305, 78
+  orig: 305, 78
+  offset: 0, 0
+  index: -1
+images/weapon/bian1_attack2_2
+  rotate: false
+  xy: 658, 147
+  size: 200, 71
+  orig: 200, 71
+  offset: 0, 0
+  index: -1
+images/weapon/bian1_attack3_0
+  rotate: false
+  xy: 860, 125
+  size: 162, 76
+  orig: 162, 76
+  offset: 0, 0
+  index: -1
+images/weapon/bian1_attack3_1
+  rotate: true
+  xy: 224, 291
+  size: 356, 141
+  orig: 356, 141
+  offset: 0, 0
+  index: -1
+images/weapon/bian1_attack3_2
+  rotate: true
+  xy: 593, 469
+  size: 226, 141
+  orig: 226, 141
+  offset: 0, 0
+  index: -1
+images/weapon/bian1_attack4_1
+  rotate: true
+  xy: 405, 367
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/weapon/bian1_attack4_2
+  rotate: true
+  xy: 367, 318
+  size: 377, 36
+  orig: 377, 36
+  offset: 0, 0
+  index: -1
+
+gongfu3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/anim/bird_stand
+  rotate: true
+  xy: 2, 501
+  size: 175, 83
+  orig: 175, 83
+  offset: 0, 0
+  index: -1
+images/anim/snake_atk1
+  rotate: false
+  xy: 164, 321
+  size: 141, 68
+  orig: 141, 68
+  offset: 0, 0
+  index: -1
+images/anim/snake_atk2
+  rotate: true
+  xy: 2, 322
+  size: 177, 71
+  orig: 177, 71
+  offset: 0, 0
+  index: -1
+images/anim/wolf_atk2
+  rotate: false
+  xy: 303, 902
+  size: 142, 120
+  orig: 143, 121
+  offset: 0, 0
+  index: -1
+images/anim/wolf_stand
+  rotate: false
+  xy: 155, 690
+  size: 157, 79
+  orig: 157, 80
+  offset: 0, 0
+  index: -1
+images/anqi/anqi_attack10_0
+  rotate: false
+  xy: 575, 665
+  size: 80, 110
+  orig: 80, 110
+  offset: 0, 0
+  index: -1
+images/anqi/anqi_attack1_1
+  rotate: false
+  xy: 464, 667
+  size: 109, 108
+  orig: 109, 108
+  offset: 0, 0
+  index: -1
+images/anqi/anqi_attack2_1
+  rotate: true
+  xy: 392, 201
+  size: 113, 101
+  orig: 113, 102
+  offset: 0, 1
+  index: -1
+images/anqi/anqi_attack4_0
+  rotate: false
+  xy: 456, 554
+  size: 117, 111
+  orig: 117, 111
+  offset: 0, 0
+  index: -1
+images/anqi/anqi_attack8_1
+  rotate: true
+  xy: 348, 771
+  size: 129, 106
+  orig: 129, 106
+  offset: 0, 0
+  index: -1
+images/anqi/anqi_attack9_1
+  rotate: true
+  xy: 307, 316
+  size: 92, 138
+  orig: 92, 138
+  offset: 0, 0
+  index: -1
+images/baoqi/anranxiaohun001
+  rotate: true
+  xy: 384, 66
+  size: 133, 83
+  orig: 137, 83
+  offset: 0, 0
+  index: -1
+images/baoqi/khbd-attack01
+  rotate: true
+  xy: 639, 2
+  size: 64, 117
+  orig: 64, 117
+  offset: 0, 0
+  index: -1
+images/baoqi/khbd-attack07
+  rotate: false
+  xy: 314, 671
+  size: 148, 98
+  orig: 148, 98
+  offset: 0, 0
+  index: -1
+images/baoqi/khbd-attack09
+  rotate: false
+  xy: 288, 410
+  size: 151, 89
+  orig: 151, 89
+  offset: 0, 0
+  index: -1
+images/baoqi/khbd-blade03
+  rotate: false
+  xy: 155, 771
+  size: 128, 127
+  orig: 128, 128
+  offset: 0, 1
+  index: -1
+images/baoqi/khbd-blade05
+  rotate: false
+  xy: 844, 244
+  size: 119, 114
+  orig: 128, 128
+  offset: 9, 0
+  index: -1
+images/baoqi/khbd-blade06
+  rotate: false
+  xy: 760, 802
+  size: 117, 128
+  orig: 128, 128
+  offset: 11, 0
+  index: -1
+images/baoqi/khbd-blade07
+  rotate: false
+  xy: 886, 540
+  size: 113, 123
+  orig: 128, 128
+  offset: 15, 4
+  index: -1
+images/baoqi/khbd-blade08
+  rotate: false
+  xy: 657, 665
+  size: 117, 124
+  orig: 128, 128
+  offset: 10, 4
+  index: -1
+images/baoqi/qinggong04
+  rotate: true
+  xy: 833, 360
+  size: 86, 55
+  orig: 86, 55
+  offset: 0, 0
+  index: -1
+images/baoqi/taj202
+  rotate: false
+  xy: 593, 340
+  size: 112, 108
+  orig: 112, 108
+  offset: 0, 0
+  index: -1
+images/baoqi/taj302
+  rotate: true
+  xy: 495, 201
+  size: 115, 102
+  orig: 115, 102
+  offset: 0, 0
+  index: -1
+images/baoqi/taj702
+  rotate: true
+  xy: 758, 2
+  size: 64, 117
+  orig: 64, 117
+  offset: 0, 0
+  index: -1
+images/baoqi/tajiblade-01
+  rotate: true
+  xy: 2, 2
+  size: 146, 90
+  orig: 150, 91
+  offset: 4, 1
+  index: -1
+images/baoqi/tajiblade-04
+  rotate: true
+  xy: 707, 550
+  size: 113, 126
+  orig: 128, 128
+  offset: 8, 1
+  index: -1
+images/baoqi/tajiblade-07
+  rotate: false
+  xy: 149, 193
+  size: 113, 126
+  orig: 128, 128
+  offset: 8, 1
+  index: -1
+images/baoqi/tajiblade-08
+  rotate: true
+  xy: 264, 201
+  size: 113, 126
+  orig: 128, 128
+  offset: 8, 1
+  index: -1
+images/bian/bian_attack1_1
+  rotate: true
+  xy: 608, 450
+  size: 102, 97
+  orig: 102, 97
+  offset: 0, 0
+  index: -1
+images/blade/knife_blade3
+  rotate: false
+  xy: 143, 513
+  size: 154, 77
+  orig: 154, 77
+  offset: 0, 0
+  index: -1
+images/blade/knife_blade4
+  rotate: false
+  xy: 2, 678
+  size: 83, 192
+  orig: 83, 192
+  offset: 0, 0
+  index: -1
+images/blade/leg_blade_2
+  rotate: false
+  xy: 299, 501
+  size: 152, 86
+  orig: 152, 86
+  offset: 0, 0
+  index: -1
+images/blade/liumai3
+  rotate: true
+  xy: 586, 321
+  size: 90, 5
+  orig: 90, 5
+  offset: 0, 0
+  index: -1
+images/blade/liumai4
+  rotate: true
+  xy: 1017, 268
+  size: 90, 5
+  orig: 90, 5
+  offset: 0, 0
+  index: -1
+images/blade/liumai5
+  rotate: true
+  xy: 886, 448
+  size: 90, 5
+  orig: 90, 5
+  offset: 0, 0
+  index: -1
+images/blade/liumai6
+  rotate: true
+  xy: 1003, 686
+  size: 90, 5
+  orig: 90, 5
+  offset: 0, 0
+  index: -1
+images/blade/sword_blade_3
+  rotate: true
+  xy: 87, 680
+  size: 190, 56
+  orig: 190, 56
+  offset: 0, 0
+  index: -1
+images/blade/sword_blade_4
+  rotate: false
+  xy: 2, 872
+  size: 148, 150
+  orig: 148, 150
+  offset: 0, 0
+  index: -1
+images/common/barehands-defend-chest02
+  rotate: true
+  xy: 528, 2
+  size: 60, 109
+  orig: 60, 111
+  offset: 0, 2
+  index: -1
+images/common/barehands-defend-foot01
+  rotate: true
+  xy: 877, 2
+  size: 66, 108
+  orig: 66, 108
+  offset: 0, 0
+  index: -1
+images/common/barehands-defend-head01
+  rotate: false
+  xy: 285, 771
+  size: 61, 127
+  orig: 62, 127
+  offset: 1, 0
+  index: -1
+images/common/dead2-2
+  rotate: true
+  xy: 965, 245
+  size: 113, 50
+  orig: 114, 50
+  offset: 1, 0
+  index: -1
+images/common/dead2-5
+  rotate: false
+  xy: 844, 206
+  size: 114, 36
+  orig: 115, 36
+  offset: 1, 0
+  index: -1
+images/common/defend-head
+  rotate: false
+  xy: 551, 64
+  size: 74, 135
+  orig: 74, 137
+  offset: 0, 1
+  index: -1
+images/common/dodge-above3
+  rotate: false
+  xy: 988, 128
+  size: 34, 115
+  orig: 34, 116
+  offset: 0, 1
+  index: -1
+images/cut
+  rotate: false
+  xy: 87, 505
+  size: 54, 173
+  orig: 54, 173
+  offset: 0, 0
+  index: -1
+images/effect/blood
+  rotate: false
+  xy: 882, 782
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+images/effect/drag1_9
+  rotate: false
+  xy: 149, 150
+  size: 109, 41
+  orig: 109, 41
+  offset: 0, 0
+  index: -1
+images/effect/fire1
+  rotate: true
+  xy: 835, 518
+  size: 145, 49
+  orig: 145, 49
+  offset: 0, 0
+  index: -1
+images/effect/fire4
+  rotate: false
+  xy: 441, 413
+  size: 150, 68
+  orig: 150, 68
+  offset: 0, 0
+  index: -1
+images/finger/finger_atk02_1
+  rotate: true
+  xy: 627, 68
+  size: 134, 90
+  orig: 134, 90
+  offset: 0, 0
+  index: -1
+images/finger/finger_atk03_1
+  rotate: true
+  xy: 94, 6
+  size: 142, 107
+  orig: 142, 107
+  offset: 0, 0
+  index: -1
+images/finger/finger_attack12_0
+  rotate: false
+  xy: 879, 821
+  size: 55, 109
+  orig: 55, 109
+  offset: 0, 0
+  index: -1
+images/finger/finger_attack12_1
+  rotate: false
+  xy: 893, 360
+  size: 128, 89
+  orig: 128, 89
+  offset: 0, 0
+  index: -1
+images/finger/finger_attack14_2
+  rotate: false
+  xy: 893, 451
+  size: 129, 87
+  orig: 129, 87
+  offset: 0, 0
+  index: -1
+images/finger/finger_attack16_1
+  rotate: true
+  xy: 571, 777
+  size: 139, 76
+  orig: 139, 77
+  offset: 0, 1
+  index: -1
+images/finger/finger_attack17_1
+  rotate: true
+  xy: 469, 66
+  size: 133, 80
+  orig: 134, 81
+  offset: 1, 1
+  index: -1
+images/gun/gun_attack10_1_b
+  rotate: false
+  xy: 447, 918
+  size: 154, 104
+  orig: 154, 104
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack11_0
+  rotate: false
+  xy: 698, 204
+  size: 92, 134
+  orig: 93, 134
+  offset: 1, 0
+  index: -1
+images/gun/gun_attack11_1
+  rotate: false
+  xy: 447, 318
+  size: 137, 93
+  orig: 137, 93
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack12_0
+  rotate: false
+  xy: 835, 467
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack12_1_b
+  rotate: false
+  xy: 164, 592
+  size: 148, 96
+  orig: 148, 96
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack1_0
+  rotate: false
+  xy: 719, 68
+  size: 74, 134
+  orig: 74, 134
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack5_0
+  rotate: true
+  xy: 882, 665
+  size: 111, 119
+  orig: 111, 119
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack8_1
+  rotate: true
+  xy: 649, 791
+  size: 142, 109
+  orig: 142, 109
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack9_1_b
+  rotate: false
+  xy: 152, 900
+  size: 149, 122
+  orig: 149, 122
+  offset: 0, 0
+  index: -1
+images/hand/claw_atk02_0
+  rotate: false
+  xy: 795, 70
+  size: 96, 134
+  orig: 96, 134
+  offset: 0, 0
+  index: -1
+images/hand/claw_atk03_0
+  rotate: false
+  xy: 776, 665
+  size: 104, 135
+  orig: 104, 135
+  offset: 0, 0
+  index: -1
+images/hand/claw_atk06_0
+  rotate: false
+  xy: 164, 391
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+images/hand/claw_atk07_1
+  rotate: false
+  xy: 456, 777
+  size: 113, 139
+  orig: 113, 139
+  offset: 0, 0
+  index: -1
+images/hand/fist_atk04_1
+  rotate: true
+  xy: 939, 885
+  size: 137, 83
+  orig: 137, 83
+  offset: 0, 0
+  index: -1
+images/hand/fist_atk05_1
+  rotate: true
+  xy: 281, 66
+  size: 133, 101
+  orig: 133, 101
+  offset: 0, 0
+  index: -1
+images/hand/fist_atk07_1
+  rotate: false
+  xy: 707, 448
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk08_1
+  rotate: false
+  xy: 314, 589
+  size: 140, 80
+  orig: 140, 80
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk09_1
+  rotate: true
+  xy: 82, 150
+  size: 171, 65
+  orig: 172, 65
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk10_1
+  rotate: false
+  xy: 575, 554
+  size: 130, 109
+  orig: 130, 110
+  offset: 0, 1
+  index: -1
+images/hand/hand_atk11_1
+  rotate: true
+  xy: 792, 206
+  size: 135, 50
+  orig: 135, 50
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk13_1
+  rotate: false
+  xy: 603, 935
+  size: 169, 87
+  orig: 170, 87
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk15_1
+  rotate: true
+  xy: 109, 338
+  size: 165, 53
+  orig: 166, 53
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk21_1
+  rotate: true
+  xy: 2, 150
+  size: 170, 78
+  orig: 172, 78
+  offset: 2, 0
+  index: -1
+images/knife/knife_stand1
+  rotate: false
+  xy: 936, 778
+  size: 86, 105
+  orig: 86, 106
+  offset: 0, 1
+  index: -1
+images/leg/leg_attack02_1
+  rotate: true
+  xy: 599, 204
+  size: 134, 97
+  orig: 134, 97
+  offset: 0, 0
+  index: -1
+images/leg/leg_attack03_1
+  rotate: true
+  xy: 203, 8
+  size: 140, 76
+  orig: 141, 76
+  offset: 0, 0
+  index: -1
+images/pa
+  rotate: false
+  xy: 988, 57
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+images/scratch
+  rotate: false
+  xy: 893, 72
+  size: 93, 132
+  orig: 93, 132
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk02_0
+  rotate: true
+  xy: 405, 2
+  size: 62, 121
+  orig: 62, 122
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk07_0
+  rotate: false
+  xy: 707, 343
+  size: 124, 103
+  orig: 124, 103
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk50_1
+  rotate: true
+  xy: 453, 483
+  size: 69, 153
+  orig: 69, 153
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk52_1
+  rotate: false
+  xy: 774, 932
+  size: 163, 90
+  orig: 163, 90
+  offset: 0, 0
+  index: -1
+images/weapon/gun1
+  rotate: false
+  xy: 145, 695
+  size: 8, 175
+  orig: 8, 175
+  offset: 0, 0
+  index: -1
+images/weapon/gun2
+  rotate: false
+  xy: 75, 323
+  size: 32, 176
+  orig: 32, 176
+  offset: 0, 0
+  index: -1
+images/weapon/knife2
+  rotate: true
+  xy: 281, 2
+  size: 62, 122
+  orig: 62, 124
+  offset: 0, 0
+  index: -1
+
+gongfu4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/anim/spider_atk1
+  rotate: false
+  xy: 389, 600
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+images/anim/spider_atk2
+  rotate: false
+  xy: 208, 600
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+images/anim/spider_stand
+  rotate: false
+  xy: 763, 103
+  size: 73, 36
+  orig: 73, 36
+  offset: 0, 0
+  index: -1
+images/anqi/anqi_attack4_1
+  rotate: false
+  xy: 556, 666
+  size: 93, 116
+  orig: 93, 117
+  offset: 0, 1
+  index: -1
+images/anqi/anqi_attack5_0
+  rotate: false
+  xy: 798, 911
+  size: 108, 111
+  orig: 108, 113
+  offset: 0, 2
+  index: -1
+images/anqi/anqi_attack6_0
+  rotate: false
+  xy: 533, 136
+  size: 98, 113
+  orig: 99, 114
+  offset: 0, 1
+  index: -1
+images/anqi/anqi_attack7_0
+  rotate: false
+  xy: 260, 769
+  size: 92, 125
+  orig: 92, 125
+  offset: 0, 0
+  index: -1
+images/anqi/anqi_attack9_0
+  rotate: false
+  xy: 184, 637
+  size: 93, 125
+  orig: 93, 125
+  offset: 0, 0
+  index: -1
+images/baoqi/khbd-attack06
+  rotate: true
+  xy: 575, 908
+  size: 114, 113
+  orig: 130, 113
+  offset: 16, 0
+  index: -1
+images/baoqi/qinggong01
+  rotate: false
+  xy: 2, 733
+  size: 33, 133
+  orig: 33, 133
+  offset: 0, 0
+  index: -1
+images/baoqi/qinggong02
+  rotate: false
+  xy: 651, 682
+  size: 98, 108
+  orig: 98, 108
+  offset: 0, 0
+  index: -1
+images/baoqi/sword duan
+  rotate: true
+  xy: 405, 92
+  size: 29, 57
+  orig: 29, 85
+  offset: 0, 27
+  index: -1
+images/baoqi/taj301
+  rotate: true
+  xy: 908, 308
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+images/baoqi/taj402
+  rotate: false
+  xy: 713, 141
+  size: 75, 113
+  orig: 75, 113
+  offset: 0, 0
+  index: -1
+images/baoqi/taj403
+  rotate: true
+  xy: 102, 2
+  size: 83, 115
+  orig: 83, 115
+  offset: 0, 0
+  index: -1
+images/baoqi/taj501
+  rotate: false
+  xy: 736, 488
+  size: 83, 113
+  orig: 83, 113
+  offset: 0, 0
+  index: -1
+images/baoqi/taj502
+  rotate: true
+  xy: 79, 213
+  size: 123, 94
+  orig: 126, 94
+  offset: 0, 0
+  index: -1
+images/baoqi/taj503
+  rotate: false
+  xy: 897, 489
+  size: 71, 112
+  orig: 71, 112
+  offset: 0, 0
+  index: -1
+images/baoqi/taj504
+  rotate: false
+  xy: 899, 375
+  size: 69, 112
+  orig: 69, 112
+  offset: 0, 0
+  index: -1
+images/baoqi/taj602
+  rotate: true
+  xy: 295, 897
+  size: 125, 81
+  orig: 125, 81
+  offset: 0, 0
+  index: -1
+images/baoqi/taj801
+  rotate: true
+  xy: 908, 946
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+images/baoqi/zhudonggun01
+  rotate: true
+  xy: 463, 784
+  size: 116, 95
+  orig: 122, 95
+  offset: 0, 0
+  index: -1
+images/baoqi/zhudonggun02
+  rotate: false
+  xy: 528, 486
+  size: 104, 113
+  orig: 104, 113
+  offset: 0, 0
+  index: -1
+images/baoqi/zhudongs1
+  rotate: false
+  xy: 210, 896
+  size: 83, 126
+  orig: 83, 129
+  offset: 0, 1
+  index: -1
+images/baoqi/zhudongs2
+  rotate: false
+  xy: 279, 646
+  size: 79, 121
+  orig: 80, 125
+  offset: 1, 2
+  index: -1
+images/bian/bian_attack5_0
+  rotate: true
+  xy: 269, 358
+  size: 119, 94
+  orig: 119, 94
+  offset: 0, 0
+  index: -1
+images/bian/bian_attack5_1
+  rotate: false
+  xy: 751, 682
+  size: 110, 88
+  orig: 110, 88
+  offset: 0, 0
+  index: -1
+images/bian/bian_attack6_1
+  rotate: true
+  xy: 863, 695
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+images/circle3
+  rotate: false
+  xy: 187, 354
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
+images/common/barehands-defend-chest01
+  rotate: true
+  xy: 337, 2
+  size: 84, 109
+  orig: 84, 109
+  offset: 0, 0
+  index: -1
+images/common/barehands-defend-foot02
+  rotate: true
+  xy: 782, 2
+  size: 99, 111
+  orig: 99, 112
+  offset: 0, 1
+  index: -1
+images/common/barehands-defend-head02
+  rotate: false
+  xy: 362, 479
+  size: 63, 119
+  orig: 63, 119
+  offset: 0, 0
+  index: -1
+images/common/confuse1-1
+  rotate: false
+  xy: 462, 366
+  size: 78, 114
+  orig: 78, 114
+  offset: 0, 0
+  index: -1
+images/common/dead1-4
+  rotate: true
+  xy: 970, 545
+  size: 109, 50
+  orig: 110, 50
+  offset: 0, 0
+  index: -1
+images/common/dead1-5
+  rotate: false
+  xy: 569, 98
+  size: 107, 36
+  orig: 108, 36
+  offset: 0, 0
+  index: -1
+images/common/dead2-3
+  rotate: false
+  xy: 452, 601
+  size: 109, 51
+  orig: 110, 51
+  offset: 1, 0
+  index: -1
+images/common/dead2-4
+  rotate: true
+  xy: 224, 478
+  size: 120, 38
+  orig: 121, 38
+  offset: 1, 0
+  index: -1
+images/common/dead3-6
+  rotate: false
+  xy: 563, 601
+  size: 82, 63
+  orig: 82, 63
+  offset: 0, 0
+  index: -1
+images/common/dead3-7
+  rotate: true
+  xy: 970, 436
+  size: 107, 47
+  orig: 107, 47
+  offset: 0, 0
+  index: -1
+images/common/dodge-above2
+  rotate: true
+  xy: 92, 600
+  size: 28, 114
+  orig: 28, 114
+  offset: 0, 0
+  index: -1
+images/common/dodge-chest
+  rotate: true
+  xy: 743, 603
+  size: 77, 106
+  orig: 80, 106
+  offset: 1, 0
+  index: -1
+images/common/getup1-1
+  rotate: false
+  xy: 285, 600
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1
+images/common/getup1-3
+  rotate: true
+  xy: 647, 603
+  size: 61, 94
+  orig: 61, 95
+  offset: 0, 1
+  index: -1
+images/common/stun1-1
+  rotate: false
+  xy: 633, 141
+  size: 78, 113
+  orig: 78, 113
+  offset: 0, 0
+  index: -1
+images/common/stun1-3
+  rotate: false
+  xy: 958, 656
+  size: 64, 97
+  orig: 64, 97
+  offset: 0, 0
+  index: -1
+images/effect/drag1_10
+  rotate: true
+  xy: 751, 772
+  size: 72, 43
+  orig: 72, 43
+  offset: 0, 0
+  index: -1
+images/effect/drag1_2
+  rotate: false
+  xy: 136, 763
+  size: 33, 127
+  orig: 33, 127
+  offset: 0, 0
+  index: -1
+images/effect/drag1_6
+  rotate: true
+  xy: 583, 256
+  size: 113, 95
+  orig: 113, 95
+  offset: 0, 0
+  index: -1
+images/effect/fire24
+  rotate: true
+  xy: 271, 239
+  size: 117, 103
+  orig: 118, 103
+  offset: 0, 0
+  index: -1
+images/effect/fire3
+  rotate: false
+  xy: 908, 820
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+images/finger/finger_atk03_0
+  rotate: false
+  xy: 175, 225
+  size: 94, 120
+  orig: 94, 120
+  offset: 0, 0
+  index: -1
+images/finger/finger_attack12_2
+  rotate: true
+  xy: 119, 892
+  size: 130, 89
+  orig: 130, 89
+  offset: 0, 0
+  index: -1
+images/finger/finger_attack13_1
+  rotate: true
+  xy: 35, 87
+  size: 123, 96
+  orig: 123, 96
+  offset: 0, 0
+  index: -1
+images/finger/finger_attack14_1
+  rotate: true
+  xy: 2, 600
+  size: 131, 88
+  orig: 131, 88
+  offset: 0, 0
+  index: -1
+images/finger/finger_attack30_1
+  rotate: true
+  xy: 742, 373
+  size: 113, 74
+  orig: 114, 75
+  offset: 1, 1
+  index: -1
+images/finger/finger_attack33_1
+  rotate: true
+  xy: 111, 347
+  size: 122, 74
+  orig: 123, 75
+  offset: 1, 1
+  index: -1
+images/finger/finger_stand01
+  rotate: false
+  xy: 958, 755
+  size: 64, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack10_0
+  rotate: true
+  xy: 751, 846
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack10_0_b
+  rotate: true
+  xy: 908, 869
+  size: 75, 112
+  orig: 75, 114
+  offset: 0, 2
+  index: -1
+images/gun/gun_attack10_1
+  rotate: false
+  xy: 464, 98
+  size: 103, 28
+  orig: 103, 28
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack13_0
+  rotate: true
+  xy: 908, 199
+  size: 107, 111
+  orig: 109, 111
+  offset: 2, 0
+  index: -1
+images/gun/gun_attack13_1
+  rotate: false
+  xy: 678, 99
+  size: 83, 40
+  orig: 83, 40
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack13_1_b
+  rotate: true
+  xy: 133, 88
+  size: 123, 89
+  orig: 123, 89
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack3_1
+  rotate: true
+  xy: 970, 388
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack4_0_b
+  rotate: true
+  xy: 645, 371
+  size: 113, 95
+  orig: 113, 96
+  offset: 0, 1
+  index: -1
+images/gun/gun_attack4_1
+  rotate: true
+  xy: 2, 212
+  size: 124, 75
+  orig: 124, 76
+  offset: 0, 1
+  index: -1
+images/gun/gun_attack6_0
+  rotate: false
+  xy: 560, 788
+  size: 74, 116
+  orig: 74, 117
+  offset: 0, 1
+  index: -1
+images/gun/gun_attack6_1
+  rotate: false
+  xy: 542, 371
+  size: 101, 113
+  orig: 101, 113
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack7_0_b
+  rotate: false
+  xy: 821, 489
+  size: 74, 112
+  orig: 74, 114
+  offset: 0, 2
+  index: -1
+images/gun/gun_attack9_0_b
+  rotate: false
+  xy: 37, 891
+  size: 80, 131
+  orig: 80, 131
+  offset: 0, 0
+  index: -1
+images/gun/gun_jumpforward
+  rotate: true
+  xy: 438, 128
+  size: 114, 93
+  orig: 115, 93
+  offset: 0, 0
+  index: -1
+images/gun/gun_stand1
+  rotate: true
+  xy: 790, 144
+  size: 112, 103
+  orig: 112, 104
+  offset: 0, 1
+  index: -1
+images/hand/claw_atk01_1
+  rotate: false
+  xy: 92, 630
+  size: 90, 127
+  orig: 90, 128
+  offset: 0, 1
+  index: -1
+images/hand/claw_atk03_1
+  rotate: false
+  xy: 219, 2
+  size: 116, 84
+  orig: 116, 85
+  offset: 0, 1
+  index: -1
+images/hand/claw_atk08_0
+  rotate: false
+  xy: 360, 654
+  size: 95, 119
+  orig: 95, 119
+  offset: 0, 0
+  index: -1
+images/hand/claw_atk08_1
+  rotate: true
+  xy: 354, 775
+  size: 120, 107
+  orig: 120, 107
+  offset: 0, 0
+  index: -1
+images/hand/claw_jumpforward
+  rotate: true
+  xy: 634, 486
+  size: 113, 100
+  orig: 113, 101
+  offset: 0, 1
+  index: -1
+images/hand/fist_atk01_1
+  rotate: true
+  xy: 690, 908
+  size: 114, 106
+  orig: 114, 106
+  offset: 0, 0
+  index: -1
+images/hand/fist_atk02_1
+  rotate: true
+  xy: 224, 106
+  size: 117, 104
+  orig: 117, 104
+  offset: 0, 0
+  index: -1
+images/hand/fist_atk06_0
+  rotate: true
+  xy: 672, 2
+  size: 94, 108
+  orig: 94, 109
+  offset: 0, 1
+  index: -1
+images/hand/fist_atk08_0
+  rotate: true
+  xy: 561, 2
+  size: 94, 109
+  orig: 94, 109
+  offset: 0, 0
+  index: -1
+images/hand/fist_atk09_0
+  rotate: false
+  xy: 365, 360
+  size: 95, 117
+  orig: 95, 119
+  offset: 0, 2
+  index: -1
+images/hand/hand_atk02_0
+  rotate: false
+  xy: 457, 657
+  size: 97, 116
+  orig: 97, 117
+  offset: 0, 1
+  index: -1
+images/hand/hand_atk03_2
+  rotate: true
+  xy: 37, 759
+  size: 130, 97
+  orig: 130, 98
+  offset: 0, 1
+  index: -1
+images/hand/hand_atk05_1
+  rotate: false
+  xy: 895, 91
+  size: 111, 106
+  orig: 111, 106
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk06_1
+  rotate: true
+  xy: 478, 906
+  size: 116, 95
+  orig: 116, 97
+  offset: 0, 2
+  index: -1
+images/hand/hand_atk07_0
+  rotate: false
+  xy: 2, 2
+  size: 98, 82
+  orig: 99, 82
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk12_1
+  rotate: true
+  xy: 2, 468
+  size: 130, 48
+  orig: 131, 48
+  offset: 1, 0
+  index: -1
+images/hand/hand_atk13_0
+  rotate: true
+  xy: 851, 603
+  size: 77, 105
+  orig: 79, 105
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk14_1
+  rotate: true
+  xy: 171, 764
+  size: 126, 87
+  orig: 126, 87
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk21_0
+  rotate: true
+  xy: 2, 338
+  size: 128, 79
+  orig: 128, 79
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk22_0
+  rotate: false
+  xy: 427, 482
+  size: 99, 116
+  orig: 99, 116
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk22_2
+  rotate: true
+  xy: 378, 902
+  size: 120, 98
+  orig: 120, 98
+  offset: 0, 0
+  index: -1
+images/hand/hand_jumpforward2
+  rotate: true
+  xy: 153, 476
+  size: 122, 69
+  orig: 124, 69
+  offset: 2, 0
+  index: -1
+images/knife/knife_attack1_0
+  rotate: false
+  xy: 264, 479
+  size: 96, 119
+  orig: 96, 119
+  offset: 0, 0
+  index: -1
+images/knife/knife_attack2_0
+  rotate: true
+  xy: 376, 244
+  size: 114, 99
+  orig: 114, 99
+  offset: 0, 0
+  index: -1
+images/knife/knife_chunfengkuaiyidao1_1
+  rotate: true
+  xy: 636, 792
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+images/knife/knife_chunfengkuaiyidao2_0
+  rotate: false
+  xy: 798, 803
+  size: 108, 106
+  orig: 108, 107
+  offset: 0, 1
+  index: -1
+images/leg/leg_attack01_0
+  rotate: false
+  xy: 818, 374
+  size: 79, 112
+  orig: 79, 112
+  offset: 0, 0
+  index: -1
+images/leg/leg_attack02_0
+  rotate: true
+  xy: 895, 2
+  size: 87, 109
+  orig: 87, 109
+  offset: 0, 0
+  index: -1
+images/leg/leg_attack04_1
+  rotate: true
+  xy: 52, 471
+  size: 127, 99
+  orig: 128, 99
+  offset: 1, 0
+  index: -1
+images/sword/sword_atk01_0
+  rotate: false
+  xy: 680, 256
+  size: 77, 113
+  orig: 77, 113
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk02_1
+  rotate: true
+  xy: 448, 2
+  size: 88, 111
+  orig: 88, 111
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk04_0
+  rotate: false
+  xy: 477, 251
+  size: 104, 113
+  orig: 104, 113
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk20_0_f
+  rotate: false
+  xy: 330, 88
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk51_1
+  rotate: false
+  xy: 330, 123
+  size: 106, 114
+  orig: 106, 114
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk53_2
+  rotate: false
+  xy: 2, 868
+  size: 33, 154
+  orig: 33, 155
+  offset: 0, 0
+  index: -1
+images/weapon/bian1_attack1_2
+  rotate: true
+  xy: 759, 258
+  size: 113, 43
+  orig: 113, 43
+  offset: 0, 0
+  index: -1
+images/weapon/bian1_attack4_0
+  rotate: false
+  xy: 804, 259
+  size: 102, 112
+  orig: 102, 112
+  offset: 0, 0
+  index: -1
+images/weapon/knife1
+  rotate: false
+  xy: 2, 86
+  size: 31, 124
+  orig: 32, 124
+  offset: 1, 0
+  index: -1
+images/weapon/sword1
+  rotate: false
+  xy: 83, 346
+  size: 26, 123
+  orig: 28, 124
+  offset: 0, 0
+  index: -1
+
+gongfu5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/anim/snake_hurt
+  rotate: true
+  xy: 599, 857
+  size: 71, 76
+  orig: 71, 76
+  offset: 0, 0
+  index: -1
+images/anim/snake_stand
+  rotate: false
+  xy: 436, 683
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+images/anqi/anqi_attack10_1
+  rotate: false
+  xy: 318, 368
+  size: 85, 106
+  orig: 85, 107
+  offset: 0, 1
+  index: -1
+images/anqi/anqi_attack2_0
+  rotate: false
+  xy: 507, 260
+  size: 90, 104
+  orig: 91, 105
+  offset: 0, 1
+  index: -1
+images/anqi/anqi_attack3_0
+  rotate: false
+  xy: 318, 172
+  size: 94, 88
+  orig: 96, 88
+  offset: 1, 0
+  index: -1
+images/anqi/anqi_attack3_1
+  rotate: false
+  xy: 916, 74
+  size: 96, 83
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+images/anqi/anqi_attack5_1
+  rotate: false
+  xy: 2, 369
+  size: 103, 107
+  orig: 103, 107
+  offset: 0, 0
+  index: -1
+images/baoqi/gongjiup 01
+  rotate: false
+  xy: 405, 366
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+images/baoqi/gongjiup 02
+  rotate: true
+  xy: 208, 229
+  size: 72, 108
+  orig: 73, 108
+  offset: 0, 0
+  index: -1
+images/baoqi/gongjiup 04
+  rotate: false
+  xy: 519, 588
+  size: 79, 80
+  orig: 83, 85
+  offset: 2, 3
+  index: -1
+images/baoqi/jiqi 01
+  rotate: true
+  xy: 453, 927
+  size: 95, 109
+  orig: 96, 109
+  offset: 0, 0
+  index: -1
+images/baoqi/khbd-attack08
+  rotate: true
+  xy: 103, 2
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+images/baoqi/khbd-attack12
+  rotate: false
+  xy: 107, 383
+  size: 104, 100
+  orig: 104, 101
+  offset: 0, 0
+  index: -1
+images/baoqi/khbd-attack14
+  rotate: true
+  xy: 521, 670
+  size: 82, 76
+  orig: 82, 76
+  offset: 0, 0
+  index: -1
+images/baoqi/khbd-attack15
+  rotate: false
+  xy: 438, 756
+  size: 89, 101
+  orig: 93, 101
+  offset: 0, 0
+  index: -1
+images/baoqi/khbd-attack16
+  rotate: false
+  xy: 213, 486
+  size: 103, 100
+  orig: 103, 101
+  offset: 0, 0
+  index: -1
+images/baoqi/qinggong03
+  rotate: true
+  xy: 213, 303
+  size: 79, 103
+  orig: 79, 103
+  offset: 0, 0
+  index: -1
+images/baoqi/taj101
+  rotate: true
+  xy: 226, 756
+  size: 75, 109
+  orig: 75, 109
+  offset: 0, 0
+  index: -1
+images/baoqi/taj102
+  rotate: false
+  xy: 213, 384
+  size: 103, 100
+  orig: 103, 100
+  offset: 0, 0
+  index: -1
+images/baoqi/taj201
+  rotate: false
+  xy: 471, 477
+  size: 75, 109
+  orig: 75, 109
+  offset: 0, 0
+  index: -1
+images/baoqi/taj401
+  rotate: false
+  xy: 599, 748
+  size: 87, 107
+  orig: 87, 107
+  offset: 0, 0
+  index: -1
+images/baoqi/taj703
+  rotate: false
+  xy: 507, 160
+  size: 101, 98
+  orig: 101, 98
+  offset: 0, 0
+  index: -1
+images/baoqi/taj802
+  rotate: false
+  xy: 206, 74
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+images/baoqi/taj903
+  rotate: false
+  xy: 477, 366
+  size: 75, 109
+  orig: 75, 109
+  offset: 0, 0
+  index: -1
+images/bian/bian_attack3_1
+  rotate: true
+  xy: 114, 920
+  size: 102, 111
+  orig: 102, 111
+  offset: 0, 0
+  index: -1
+images/bian/bian_attack4_0
+  rotate: false
+  xy: 644, 477
+  size: 89, 101
+  orig: 89, 101
+  offset: 0, 0
+  index: -1
+images/bian/bian_attack4_1
+  rotate: false
+  xy: 227, 833
+  size: 108, 90
+  orig: 108, 90
+  offset: 0, 0
+  index: -1
+images/bian/bian_attack6_0
+  rotate: true
+  xy: 107, 176
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+images/bian/bian_jumpback
+  rotate: false
+  xy: 600, 580
+  size: 105, 88
+  orig: 105, 88
+  offset: 0, 0
+  index: -1
+images/bian/bian_jumpforward
+  rotate: true
+  xy: 414, 166
+  size: 95, 91
+  orig: 95, 91
+  offset: 0, 0
+  index: -1
+images/bian/bian_stand1
+  rotate: true
+  xy: 564, 930
+  size: 92, 111
+  orig: 92, 111
+  offset: 0, 0
+  index: -1
+images/blade/leg_blade_1
+  rotate: false
+  xy: 318, 262
+  size: 85, 104
+  orig: 86, 105
+  offset: 0, 0
+  index: -1
+images/common/baoqi1
+  rotate: false
+  xy: 828, 477
+  size: 69, 104
+  orig: 70, 105
+  offset: 1, 1
+  index: -1
+images/common/baoqi3-2
+  rotate: false
+  xy: 2, 153
+  size: 98, 108
+  orig: 98, 109
+  offset: 0, 1
+  index: -1
+images/common/dead1-1
+  rotate: false
+  xy: 617, 79
+  size: 90, 79
+  orig: 90, 80
+  offset: 0, 1
+  index: -1
+images/common/dead1-2
+  rotate: false
+  xy: 898, 798
+  size: 102, 55
+  orig: 102, 56
+  offset: 0, 1
+  index: -1
+images/common/dead2-1
+  rotate: true
+  xy: 529, 754
+  size: 103, 68
+  orig: 103, 68
+  offset: 0, 0
+  index: -1
+images/common/defend-chest
+  rotate: true
+  xy: 112, 690
+  size: 65, 110
+  orig: 65, 111
+  offset: 0, 1
+  index: -1
+images/common/defend-chest2
+  rotate: true
+  xy: 785, 666
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+images/common/defend-foot
+  rotate: true
+  xy: 507, 79
+  size: 79, 108
+  orig: 79, 108
+  offset: 0, 0
+  index: -1
+images/common/dodge-above1
+  rotate: true
+  xy: 518, 2
+  size: 75, 99
+  orig: 76, 99
+  offset: 0, 0
+  index: -1
+images/common/getup2-2
+  rotate: false
+  xy: 707, 585
+  size: 76, 83
+  orig: 76, 85
+  offset: 0, 0
+  index: -1
+images/common/hurt-chest
+  rotate: true
+  xy: 788, 758
+  size: 87, 107
+  orig: 87, 107
+  offset: 0, 0
+  index: -1
+images/common/hurt-foot
+  rotate: true
+  xy: 819, 2
+  size: 75, 89
+  orig: 76, 89
+  offset: 1, 0
+  index: -1
+images/common/hurt-head
+  rotate: false
+  xy: 915, 404
+  size: 78, 101
+  orig: 78, 102
+  offset: 0, 1
+  index: -1
+images/common/stun1-2
+  rotate: false
+  xy: 835, 370
+  size: 78, 105
+  orig: 78, 105
+  offset: 0, 0
+  index: -1
+images/effect/drag1_7
+  rotate: false
+  xy: 325, 588
+  size: 105, 93
+  orig: 105, 93
+  offset: 0, 0
+  index: -1
+images/effect/drag1_8
+  rotate: false
+  xy: 677, 859
+  size: 109, 72
+  orig: 109, 72
+  offset: 0, 0
+  index: -1
+images/effect/fire2
+  rotate: false
+  xy: 208, 180
+  size: 96, 47
+  orig: 96, 47
+  offset: 0, 0
+  index: -1
+images/effect/heal
+  rotate: false
+  xy: 785, 583
+  size: 107, 81
+  orig: 107, 81
+  offset: 0, 0
+  index: -1
+images/finger/finger_atk02_0
+  rotate: false
+  xy: 680, 260
+  size: 68, 107
+  orig: 68, 107
+  offset: 0, 0
+  index: -1
+images/finger/finger_attack11_0
+  rotate: false
+  xy: 774, 161
+  size: 66, 97
+  orig: 66, 98
+  offset: 0, 1
+  index: -1
+images/finger/finger_attack13_0
+  rotate: false
+  xy: 432, 588
+  size: 85, 93
+  orig: 85, 93
+  offset: 0, 0
+  index: -1
+images/finger/finger_attack15_0
+  rotate: true
+  xy: 340, 869
+  size: 55, 105
+  orig: 56, 106
+  offset: 1, 1
+  index: -1
+images/finger/finger_attack15_1
+  rotate: true
+  xy: 610, 160
+  size: 98, 83
+  orig: 99, 83
+  offset: 1, 0
+  index: -1
+images/finger/finger_attack17_0
+  rotate: true
+  xy: 453, 859
+  size: 66, 106
+  orig: 66, 107
+  offset: 0, 1
+  index: -1
+images/finger/finger_attack31_1
+  rotate: false
+  xy: 410, 2
+  size: 106, 75
+  orig: 107, 75
+  offset: 1, 0
+  index: -1
+images/finger/finger_attack32_1
+  rotate: false
+  xy: 709, 79
+  size: 101, 79
+  orig: 101, 79
+  offset: 0, 0
+  index: -1
+images/finger/finger_jumpback
+  rotate: false
+  xy: 750, 260
+  size: 68, 108
+  orig: 69, 108
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack12_0_b
+  rotate: false
+  xy: 337, 756
+  size: 99, 101
+  orig: 99, 101
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack2_1_b
+  rotate: false
+  xy: 217, 588
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack3_1_b
+  rotate: false
+  xy: 705, 670
+  size: 78, 91
+  orig: 78, 91
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack5_1
+  rotate: true
+  xy: 910, 2
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack5_1_b
+  rotate: true
+  xy: 599, 670
+  size: 76, 104
+  orig: 76, 104
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack8_0
+  rotate: true
+  xy: 227, 925
+  size: 97, 111
+  orig: 97, 113
+  offset: 0, 2
+  index: -1
+images/gun/gun_jumpback
+  rotate: false
+  xy: 405, 263
+  size: 100, 101
+  orig: 100, 102
+  offset: 0, 1
+  index: -1
+images/hand/claw_atk01_0
+  rotate: false
+  xy: 743, 370
+  size: 90, 105
+  orig: 90, 106
+  offset: 0, 1
+  index: -1
+images/hand/claw_atk02_1
+  rotate: false
+  xy: 2, 698
+  size: 108, 105
+  orig: 108, 105
+  offset: 0, 0
+  index: -1
+images/hand/claw_atk04_0
+  rotate: false
+  xy: 842, 160
+  size: 72, 103
+  orig: 72, 103
+  offset: 0, 0
+  index: -1
+images/hand/claw_atk04_1
+  rotate: true
+  xy: 548, 477
+  size: 101, 94
+  orig: 101, 94
+  offset: 0, 0
+  index: -1
+images/hand/claw_atk05_0
+  rotate: true
+  xy: 812, 79
+  size: 79, 102
+  orig: 79, 102
+  offset: 0, 0
+  index: -1
+images/hand/claw_atk09_0
+  rotate: true
+  xy: 897, 713
+  size: 83, 102
+  orig: 83, 102
+  offset: 0, 0
+  index: -1
+images/hand/claw_jumpback
+  rotate: false
+  xy: 914, 265
+  size: 81, 103
+  orig: 83, 104
+  offset: 0, 1
+  index: -1
+images/hand/claw_stand01
+  rotate: true
+  xy: 114, 838
+  size: 80, 111
+  orig: 80, 113
+  offset: 0, 2
+  index: -1
+images/hand/fist_atk01_0
+  rotate: true
+  xy: 224, 683
+  size: 71, 110
+  orig: 71, 110
+  offset: 0, 0
+  index: -1
+images/hand/fist_atk02_0
+  rotate: true
+  xy: 113, 757
+  size: 79, 111
+  orig: 79, 111
+  offset: 0, 0
+  index: -1
+images/hand/fist_atk04_0
+  rotate: false
+  xy: 2, 805
+  size: 109, 106
+  orig: 109, 106
+  offset: 0, 0
+  index: -1
+images/hand/fist_atk07_0
+  rotate: false
+  xy: 899, 507
+  size: 88, 101
+  orig: 88, 101
+  offset: 0, 0
+  index: -1
+images/hand/fist_jumpback
+  rotate: true
+  xy: 688, 763
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk01_0
+  rotate: false
+  xy: 2, 588
+  size: 105, 108
+  orig: 105, 110
+  offset: 0, 2
+  index: -1
+images/hand/hand_atk01_1
+  rotate: true
+  xy: 2, 478
+  size: 108, 103
+  orig: 110, 105
+  offset: 2, 2
+  index: -1
+images/hand/hand_atk02_1
+  rotate: false
+  xy: 2, 44
+  size: 99, 107
+  orig: 99, 108
+  offset: 0, 1
+  index: -1
+images/hand/hand_atk08_0
+  rotate: false
+  xy: 407, 79
+  size: 98, 85
+  orig: 98, 86
+  offset: 0, 1
+  index: -1
+images/hand/hand_atk10_0
+  rotate: false
+  xy: 695, 160
+  size: 77, 98
+  orig: 77, 98
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk16_0
+  rotate: false
+  xy: 300, 75
+  size: 105, 95
+  orig: 105, 97
+  offset: 0, 2
+  index: -1
+images/hand/hand_fireatk1_0
+  rotate: true
+  xy: 336, 683
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+images/hand/hand_stand0
+  rotate: true
+  xy: 901, 855
+  size: 77, 105
+  orig: 77, 106
+  offset: 0, 1
+  index: -1
+images/knife/knife_attack1_1
+  rotate: false
+  xy: 107, 485
+  size: 104, 101
+  orig: 104, 101
+  offset: 0, 0
+  index: -1
+images/knife/knife_attack4_0
+  rotate: true
+  xy: 788, 847
+  size: 84, 108
+  orig: 84, 108
+  offset: 0, 0
+  index: -1
+images/knife/knife_chunfengkuaiyidao1_0
+  rotate: false
+  xy: 103, 74
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+images/knife/knife_chunfengkuaiyidao2_1
+  rotate: false
+  xy: 820, 265
+  size: 92, 103
+  orig: 92, 103
+  offset: 0, 0
+  index: -1
+images/knife/knife_chunfengkuaiyidao3_0
+  rotate: false
+  xy: 109, 588
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+images/knife/knife_chunfengkuaiyidao3_1
+  rotate: false
+  xy: 677, 933
+  size: 110, 89
+  orig: 110, 90
+  offset: 0, 1
+  index: -1
+images/leg/leg_attack01_1
+  rotate: true
+  xy: 2, 263
+  size: 104, 103
+  orig: 104, 104
+  offset: 0, 1
+  index: -1
+images/leg/leg_attack04_0
+  rotate: false
+  xy: 916, 159
+  size: 90, 104
+  orig: 90, 105
+  offset: 0, 1
+  index: -1
+images/leg/leg_stand01
+  rotate: false
+  xy: 318, 476
+  size: 75, 110
+  orig: 76, 110
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk01_1
+  rotate: true
+  xy: 340, 926
+  size: 96, 111
+  orig: 96, 111
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk03_0
+  rotate: true
+  xy: 107, 276
+  size: 105, 99
+  orig: 105, 100
+  offset: 0, 1
+  index: -1
+images/sword/sword_atk04_1
+  rotate: true
+  xy: 554, 369
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk05_1
+  rotate: false
+  xy: 894, 610
+  size: 91, 101
+  orig: 91, 101
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk05_2
+  rotate: false
+  xy: 901, 934
+  size: 110, 88
+  orig: 111, 88
+  offset: 1, 0
+  index: -1
+images/sword/sword_atk06_1
+  rotate: true
+  xy: 395, 476
+  size: 110, 74
+  orig: 111, 74
+  offset: 1, 0
+  index: -1
+images/sword/sword_atk08_0_b
+  rotate: true
+  xy: 649, 369
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk08_1
+  rotate: false
+  xy: 302, 2
+  size: 106, 71
+  orig: 106, 71
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk11_1
+  rotate: false
+  xy: 619, 2
+  size: 98, 75
+  orig: 98, 75
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk11_1_b
+  rotate: false
+  xy: 719, 2
+  size: 98, 75
+  orig: 98, 75
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk11_3
+  rotate: false
+  xy: 205, 2
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk20_1
+  rotate: false
+  xy: 789, 933
+  size: 110, 89
+  orig: 110, 90
+  offset: 0, 1
+  index: -1
+images/sword/sword_atk50_0
+  rotate: true
+  xy: 735, 477
+  size: 104, 91
+  orig: 104, 91
+  offset: 0, 0
+  index: -1
+images/sword/sword_stand1
+  rotate: false
+  xy: 599, 260
+  size: 79, 107
+  orig: 79, 107
+  offset: 0, 0
+  index: -1
+images/weapon/bian1_stand1
+  rotate: false
+  xy: 2, 913
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+
+gongfu6.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/baoqi/khbd-attack02
+  rotate: true
+  xy: 100, 423
+  size: 87, 100
+  orig: 90, 100
+  offset: 3, 0
+  index: -1
+images/baoqi/khbd-attack05
+  rotate: true
+  xy: 793, 427
+  size: 83, 95
+  orig: 83, 95
+  offset: 0, 0
+  index: -1
+images/baoqi/khbd-blade10
+  rotate: true
+  xy: 2, 20
+  size: 94, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+images/baoqi/tajiblade-02
+  rotate: false
+  xy: 794, 339
+  size: 94, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+images/baoqi/tajiblade-03
+  rotate: false
+  xy: 890, 344
+  size: 94, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+images/bian/bian_attack2_0
+  rotate: false
+  xy: 318, 46
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+images/common/baoqi2-b
+  rotate: false
+  xy: 169, 19
+  size: 68, 95
+  orig: 68, 95
+  offset: 0, 0
+  index: -1
+images/common/confuse1-2
+  rotate: false
+  xy: 2, 418
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: -1
+images/common/dead3-1
+  rotate: false
+  xy: 2, 215
+  size: 86, 100
+  orig: 86, 100
+  offset: 0, 0
+  index: -1
+images/common/dead3-2
+  rotate: false
+  xy: 383, 160
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+images/common/dead3-3
+  rotate: false
+  xy: 472, 160
+  size: 74, 80
+  orig: 74, 80
+  offset: 0, 0
+  index: -1
+images/common/dead3-8
+  rotate: false
+  xy: 388, 2
+  size: 90, 67
+  orig: 90, 67
+  offset: 0, 0
+  index: -1
+images/common/dodge-above4
+  rotate: false
+  xy: 628, 240
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: -1
+images/common/dodge-foot
+  rotate: false
+  xy: 544, 73
+  size: 82, 83
+  orig: 82, 83
+  offset: 0, 0
+  index: -1
+images/common/dodge-head
+  rotate: false
+  xy: 2, 317
+  size: 89, 99
+  orig: 89, 99
+  offset: 0, 0
+  index: -1
+images/common/getup1-2
+  rotate: true
+  xy: 548, 158
+  size: 87, 78
+  orig: 87, 78
+  offset: 0, 0
+  index: -1
+images/common/getup2-1
+  rotate: false
+  xy: 239, 39
+  size: 77, 89
+  orig: 77, 90
+  offset: 0, 0
+  index: -1
+images/effect/drag1_3
+  rotate: false
+  xy: 261, 331
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+images/finger/finger_attack11_1
+  rotate: true
+  xy: 238, 130
+  size: 95, 74
+  orig: 97, 75
+  offset: 2, 1
+  index: -1
+images/finger/finger_attack14_0
+  rotate: true
+  xy: 544, 2
+  size: 69, 86
+  orig: 69, 86
+  offset: 0, 0
+  index: -1
+images/finger/finger_attack16_0
+  rotate: false
+  xy: 314, 138
+  size: 67, 93
+  orig: 68, 94
+  offset: 0, 1
+  index: -1
+images/finger/finger_attack30_0
+  rotate: true
+  xy: 890, 432
+  size: 78, 100
+  orig: 79, 100
+  offset: 1, 0
+  index: -1
+images/finger/finger_attack31_0
+  rotate: true
+  xy: 776, 186
+  size: 72, 86
+  orig: 73, 86
+  offset: 0, 0
+  index: -1
+images/finger/finger_attack32_0
+  rotate: false
+  xy: 170, 218
+  size: 59, 97
+  orig: 59, 98
+  offset: 0, 1
+  index: -1
+images/finger/finger_attack33_0
+  rotate: false
+  xy: 702, 182
+  size: 72, 87
+  orig: 73, 87
+  offset: 1, 0
+  index: -1
+images/finger/finger_jumpforward
+  rotate: false
+  xy: 353, 332
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack1_1
+  rotate: false
+  xy: 692, 427
+  size: 99, 83
+  orig: 99, 83
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack3_0
+  rotate: false
+  xy: 304, 233
+  size: 59, 96
+  orig: 59, 96
+  offset: 0, 0
+  index: -1
+images/gun/gun_attack9_0
+  rotate: false
+  xy: 632, 13
+  size: 83, 59
+  orig: 83, 59
+  offset: 0, 0
+  index: -1
+images/hand/fist_jumpforward
+  rotate: false
+  xy: 93, 317
+  size: 78, 99
+  orig: 78, 99
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk06_0
+  rotate: false
+  xy: 90, 119
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk11_0
+  rotate: true
+  xy: 469, 71
+  size: 87, 73
+  orig: 87, 74
+  offset: 0, 1
+  index: -1
+images/hand/hand_atk12_0
+  rotate: true
+  xy: 790, 104
+  size: 80, 72
+  orig: 81, 72
+  offset: 1, 0
+  index: -1
+images/hand/hand_atk14_0
+  rotate: false
+  xy: 455, 242
+  size: 82, 88
+  orig: 82, 88
+  offset: 0, 0
+  index: -1
+images/hand/hand_atk15_0
+  rotate: false
+  xy: 779, 260
+  size: 88, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+images/hand/hand_fireatk1_1
+  rotate: true
+  xy: 303, 420
+  size: 90, 97
+  orig: 90, 98
+  offset: 0, 1
+  index: -1
+images/hand/hand_jumpback
+  rotate: false
+  xy: 231, 227
+  size: 71, 99
+  orig: 71, 100
+  offset: 0, 1
+  index: -1
+images/hand/hand_jumpback2
+  rotate: true
+  xy: 709, 98
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+images/hand/hand_jumpforward
+  rotate: true
+  xy: 402, 420
+  size: 90, 96
+  orig: 90, 97
+  offset: 0, 1
+  index: -1
+images/hand/hand_stand2
+  rotate: false
+  xy: 692, 352
+  size: 100, 73
+  orig: 102, 73
+  offset: 2, 0
+  index: -1
+images/knife/knife_attack3_0
+  rotate: false
+  xy: 500, 419
+  size: 94, 91
+  orig: 94, 91
+  offset: 0, 0
+  index: -1
+images/knife/knife_attack3_1
+  rotate: false
+  xy: 90, 218
+  size: 78, 97
+  orig: 78, 97
+  offset: 0, 0
+  index: -1
+images/knife/knife_attack4_1
+  rotate: true
+  xy: 202, 423
+  size: 87, 99
+  orig: 87, 99
+  offset: 0, 0
+  index: -1
+images/leg/leg_attack03_0
+  rotate: false
+  xy: 446, 332
+  size: 92, 85
+  orig: 93, 85
+  offset: 1, 0
+  index: -1
+images/sword/sword_atk07_1
+  rotate: false
+  xy: 388, 71
+  size: 79, 87
+  orig: 79, 88
+  offset: 0, 1
+  index: -1
+images/sword/sword_atk11_0
+  rotate: false
+  xy: 628, 74
+  size: 79, 73
+  orig: 80, 73
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk11_2
+  rotate: false
+  xy: 539, 247
+  size: 87, 82
+  orig: 87, 82
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk11_4
+  rotate: true
+  xy: 169, 116
+  size: 100, 67
+  orig: 101, 67
+  offset: 0, 0
+  index: -1
+images/sword/sword_atk20_0
+  rotate: false
+  xy: 628, 149
+  size: 72, 89
+  orig: 72, 90
+  offset: 0, 1
+  index: -1
+images/sword/sword_atk21_0
+  rotate: false
+  xy: 90, 21
+  size: 77, 96
+  orig: 77, 97
+  offset: 0, 1
+  index: -1
+images/sword/sword_atk21_1
+  rotate: true
+  xy: 596, 417
+  size: 93, 94
+  orig: 93, 95
+  offset: 0, 1
+  index: -1
+images/sword/sword_atk53_0
+  rotate: false
+  xy: 690, 271
+  size: 87, 79
+  orig: 87, 79
+  offset: 0, 0
+  index: -1
+images/sword/sword_jumpback
+  rotate: false
+  xy: 2, 116
+  size: 86, 97
+  orig: 86, 97
+  offset: 0, 0
+  index: -1
+images/sword/sword_jumpforward
+  rotate: true
+  xy: 540, 331
+  size: 84, 92
+  orig: 84, 92
+  offset: 0, 0
+  index: -1
+images/weapon/bian1_attack1_0
+  rotate: false
+  xy: 365, 242
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+images/weapon/bian1_attack3_3
+  rotate: false
+  xy: 173, 328
+  size: 86, 93
+  orig: 86, 93
+  offset: 0, 0
+  index: -1

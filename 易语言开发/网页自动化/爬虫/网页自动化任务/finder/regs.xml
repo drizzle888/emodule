@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO8859-1" ?>
+  <regs>
+    <item>
+      <id>20180314300094</id>
+      <name>a</name>
+      <find>gai([\w]+?)over([\d]+)</find>
+      <save>$1$2</save>
+    </item>
+    <item>
+      <id>20180314459561</id>
+      <name>c</name>
+      <find>as</find>
+      <save/>
+    </item>
+  </regs>

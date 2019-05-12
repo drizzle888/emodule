@@ -1,0 +1,17 @@
+.com
+.net
+.org
+.edu
+.com.cn
+.net.cn
+.org.cn
+.gov.cn
+.edu.cn
+.cn
+.info
+.biz
+.tv
+.cc
+.us
+.in
+.name

@@ -1,0 +1,39 @@
+create table t_account (
+	id int auto_increment,
+	name varchar(15),
+	acc varchar(15),
+	psw varchar(15),
+	primary key(id)
+)
+
+create table t_user(
+	account varchar(15) comment '账号',
+	name varchar(15) comment '名字',
+	level int(3) comment '等级',
+	ch varchar(15) default '【普通百姓】' comment '称号',
+	gender varchar(2) comment '性别',
+	sect varchar(15) default '无' comment '门派',
+	yf varchar(15) default '无' comment '缘分',
+	shifu varchar(15) default '无' comment '师傅',
+	jq int(10) default 100 comment '金钱',
+	yb int(10) default 0 comment '元宝',
+	jy int(10) default 0 comment '经验',
+	qn int(10) default 0 comment '潜能',
+--
+	js int(10) default 50 comment '精神',
+	jsmax int(10) default 50 comment '精神上限',
+	qx int(10) default 20 comment '气血',
+	qxmax int(10) default 20 comment '气血上限',
+	nl int(10) default 20 comment '内力',
+	nlmax int(10) default 20 comment '内力上限',
+	gjl int(10) default 20 comment '攻击力',
+	fyl int(10) default 20 comment '防御力',
+	sbl int(10) default 20 comment '闪避力',
+--
+	bl int(10) default 0 comment '臂力',
+	rm int(10) default 0 comment '容貌',
+	sf int(10) default 0 comment '身法',
+	wx int(10) default 0 comment '悟性',
+	fy int(10) default 0 comment '富缘',
+	gg int(10) default 0 comment '根骨'
+)

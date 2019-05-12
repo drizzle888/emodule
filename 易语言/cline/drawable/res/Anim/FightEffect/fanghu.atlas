@@ -1,0 +1,69 @@
+
+fanghu.png
+size: 1594,183
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bian_attack7_0
+  rotate: false
+  xy: 1515, 71
+  size: 77, 110
+  orig: 77, 110
+  offset: 0, 0
+  index: -1
+zhaobai1
+  rotate: false
+  xy: 970, 2
+  size: 135, 179
+  orig: 135, 179
+  offset: 0, 0
+  index: -1
+zhaobai2
+  rotate: true
+  xy: 2, 10
+  size: 171, 240
+  orig: 171, 240
+  offset: 0, 0
+  index: -1
+zhaohuang1
+  rotate: false
+  xy: 1107, 2
+  size: 134, 179
+  orig: 134, 179
+  offset: 0, 0
+  index: -1
+zhaohuang2
+  rotate: true
+  xy: 728, 12
+  size: 169, 240
+  orig: 169, 240
+  offset: 0, 0
+  index: -1
+zhaolan1
+  rotate: false
+  xy: 1243, 2
+  size: 134, 179
+  orig: 134, 179
+  offset: 0, 0
+  index: -1
+zhaolan2
+  rotate: true
+  xy: 244, 10
+  size: 171, 240
+  orig: 171, 240
+  offset: 0, 0
+  index: -1
+zhaozi1
+  rotate: false
+  xy: 1379, 2
+  size: 134, 179
+  orig: 134, 179
+  offset: 0, 0
+  index: -1
+zhaozi2
+  rotate: true
+  xy: 486, 11
+  size: 170, 240
+  orig: 170, 240
+  offset: 0, 0
+  index: -1

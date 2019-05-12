@@ -1,0 +1,13 @@
+
+effects.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/pa
+  rotate: true
+  xy: 2, 2
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
